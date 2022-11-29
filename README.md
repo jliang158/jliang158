@@ -1,4 +1,4 @@
-### Hi there 👋
+I am a full-stack software engineer who enjoys making, designing and testing applications to meet the end-user needs. I am currently attending Hack Reactor's Advanced Software Engineering Immersive graduating in early December.
 
 <!--
 **jliang158/jliang158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
