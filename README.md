@@ -1,4 +1,4 @@
-Jonathan Liang
+# Jonathan Liang
 
 I am a full-stack software engineer who enjoys making, designing and testing applications to meet the end-user needs. I am currently attending Hack Reactor's Advanced Software Engineering Immersive graduating in early December.
 
