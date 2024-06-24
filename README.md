@@ -1,6 +1,6 @@
 ## Hello! I'm Jonathan Liang
 
-I am a full-stack software engineer who enjoys making, designing and testing applications to meet the end-user needs. I have attended Hack Reactor's Advanced Software Engineering Immersive and looking forward to the professional field.
+I am a full-stack software engineer who enjoys making, designing and testing applications to meet the end-user needs. I have attended Hack Reactor's Advanced Software Engineering Immersive!
 
 Languages & Tools
 
